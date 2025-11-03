@@ -1,0 +1,5 @@
+{
+  "name": "YourArt",
+  "description": "Create stunning images from text prompts and edit them with intuitive commands, all powered by the Gemini API.",
+  "requestFramePermissions": []
+}
